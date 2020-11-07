@@ -1,0 +1,23 @@
+                               Cinema Hall Ticket
+     Movie Name       Movie Id          Price        Tickets         Amount
+        Titanic              5            180              2            360
+
+
+
+
+                                                           Total Amount 360
+                                   Enjoy Your Show
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   
